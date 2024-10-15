@@ -1,0 +1,1 @@
+# Stage6__Class_inheritance
